@@ -1,7 +1,8 @@
 # Corona-BOT
-I created a corona virus notifier bot, which notifies about the current statistics related to it by posting them as slack notifications.
+I created a corona virus notifier bot, which notifies about the current statistics by posting them as slack notifications.
 
 It notifies about the cases of coronovirus by scrapping the data from https://www.mohfw.gov.in
+and then the scrapped data is displayed as a Tabular Slack Notification.
 
 ## The main file is corona_bot.py
 
